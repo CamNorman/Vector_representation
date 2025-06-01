@@ -1,1 +1,1 @@
-Packages Used: Pandas, Nunpy
+Packages Used: Pandas, Numpy
